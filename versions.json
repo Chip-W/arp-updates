@@ -1,6 +1,6 @@
 {
   "arp_mc_core": {
-    "version": "0.7.0",
+    "version": "1.0.0",
     "download": "",
     "notes": ""
   },
@@ -15,7 +15,7 @@
     "notes": ""
   },
   "arp_doorlock": {
-    "version": "1.0.0",
+    "version": "0.1.0",
     "download": "",
     "notes": ""
   },
@@ -40,53 +40,52 @@
     "notes": ""
   },
   "mc_church": {
-    "version": "1.2.0",
+    "version": "1.0.0",
     "download": "",
     "notes": "",
     "resource": "arp_mc_core",
     "plugin_id": "church"
   },
   "mc_garage": {
-    "version": "2.0.0",
+    "version": "1.0.0",
     "download": "",
     "notes": "",
     "resource": "arp_mc_core",
     "plugin_id": "club_garage"
   },
   "mc_progression": {
-    "version": "0.13.0",
+    "version": "1.0.0",
     "download": "",
     "notes": "",
     "resource": "arp_mc_core",
     "plugin_id": "mc_progression"
   },
   "mc_prospects": {
-    "version": "1.7.3",
+    "version": "1.0.0",
     "download": "",
     "notes": "",
     "resource": "arp_mc_core",
     "plugin_id": "mc_prospects"
   },
   "mc_runs": {
-    "version": "1.1.0",
+    "version": "1.0.0",
     "download": "",
     "notes": "",
     "resource": "arp_mc_core",
     "plugin_id": "mc_runs"
   },
   "mc_supplies": {
-    "version": "0.9.1",
+    "version": "1.0.0",
     "download": "",
     "notes": "",
     "resource": "arp_mc_core",
     "plugin_id": "mc_supplies"
   },
   "mc_treasury": {
-    "version": "2.2.0",
+    "version": "1.0.0",
     "download": "",
     "notes": "",
     "resource": "arp_mc_core",
     "plugin_id": "mc_treasury"
   }
 }
-
