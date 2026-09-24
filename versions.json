@@ -87,5 +87,172 @@
     "notes": "",
     "resource": "arp_mc_core",
     "plugin_id": "mc_treasury"
+  },
+  "arp_gang_core": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": ""
+  },
+  "gang_prospects": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_gang_core",
+    "plugin_id": "gang_prospects"
+  },
+  "gang_church": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_gang_core",
+    "plugin_id": "church"
+  },
+  "gang_treasury": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_gang_core",
+    "plugin_id": "gang_treasury"
+  },
+  "gang_supplies": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_gang_core",
+    "plugin_id": "gang_supplies"
+  },
+  "gang_runs": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_gang_core",
+    "plugin_id": "gang_runs"
+  },
+  "gang_garage": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_gang_core",
+    "plugin_id": "club_garage"
+  },
+  "gang_progression": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_gang_core",
+    "plugin_id": "gang_progression"
+  },
+  "arp_cartel_core": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": ""
+  },
+  "cartel_church": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_cartel_core",
+    "plugin_id": "church"
+  },
+  "cartel_supplies": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_cartel_core",
+    "plugin_id": "cartel_supplies"
+  },
+  "cartel_progression": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_cartel_core",
+    "plugin_id": "cartel_progression"
+  },
+  "cartel_runs": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_cartel_core",
+    "plugin_id": "cartel_runs"
+  },
+  "cartel_treasury": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_cartel_core",
+    "plugin_id": "cartel_treasury"
+  },
+  "cartel_garage": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_cartel_core",
+    "plugin_id": "club_garage"
+  },
+  "cartel_prospects": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_cartel_core",
+    "plugin_id": "cartel_prospects"
+  },
+  "arp_mafia_core": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": ""
+  },
+  "mafia_progression": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_mafia_core",
+    "plugin_id": "mafia_progression"
+  },
+  "mafia_supplies": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_mafia_core",
+    "plugin_id": "mafia_supplies"
+  },
+  "mafia_prospects": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_mafia_core",
+    "plugin_id": "mafia_prospects"
+  },
+  "mafia_garage": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_mafia_core",
+    "plugin_id": "club_garage"
+  },
+  "mafia_treasury": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_mafia_core",
+    "plugin_id": "mafia_treasury"
+  },
+  "mafia_runs": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_mafia_core",
+    "plugin_id": "mafia_runs"
+  },
+  "mafia_church": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": "",
+    "resource": "arp_mafia_core",
+    "plugin_id": "church"
+  },
+  "arp_gang_setup": {
+    "version": "1.0.0",
+    "download": "",
+    "notes": ""
   }
 }
